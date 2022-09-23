@@ -9,7 +9,7 @@ First, install the dependencies with
 pip install -r /path/to/requirements.txt
 ```
 
-Then, set your environment variables with Twilio credentials with 
+Then, set your environment variables with Twilio credentials  
 ```bash
 export TWILIO_ACCOUNT_SID=YOUR_ACC_SID
 export TWILIO_AUTH_TOKEN=YOUR_AUTH_TOKEN
