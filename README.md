@@ -17,4 +17,8 @@ export TWILIO_AUTH_TOKEN=YOUR_AUTH_TOKEN
 
 ## Usage
 
-Once you've done with the above steps, you're good to go. Remember to provide main.py with both your and your SMS receiver's phone number.
+Once you've done with the above steps, you're good to go. Remember to provide main.py with both your and your 
+SMS receiver's phone number. When you will have everything set up, simply run the script with 
+```bash
+python3 main.py
+```
